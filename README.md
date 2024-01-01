@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to learning new things.
-- 📫 How to reach me thrpugh mail:rakshacutie19@gmail.com
+- 📫 How to reach me through mail:rakshacutie19@gmail.com
 
 <!---
 Rakshu0719/Rakshu0719 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
